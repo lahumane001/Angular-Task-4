@@ -1,0 +1,27 @@
+.pieChart{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    /* background-image:  conic-gradient(
+        red 90deg,
+        pink 0
+    ); */
+}
+span{
+    font-size: 20px;
+    height: 20px;
+    line-height: 20px;
+}
+.p-square{
+    display: flex;
+}
+.square1{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+}
+.square2{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
